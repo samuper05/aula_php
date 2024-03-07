@@ -1,5 +1,5 @@
 <?php
-// .
+// ksksks
 // SISTEMA DE CALCULADORA EM PHP
 
 // Pegar variáveis vinda na URL
